@@ -99,27 +99,27 @@ input {
 
 /* =========================================
    CLASSES QUE DEVE DESCOMENTAR E COMPLETAR
-   ========================================= */
+========================================= */
 
-/* Missão 2: Estilo para quando o rato entra no banner (.destaque-pet) */
-/* Dica: Altere a cor de fundo para #ff9f43 e a cor do texto para branco (#ffffff). A transformação de escala já está pronta! */
+/* Missão 2: Estilo para quando o rato entra no banner (.destaque-pet)
+Dica: Altere a cor de fundo para #ff9f43 e a cor do texto para branco (#ffffff). A transformação de escala já está pronta! */
 
-/*
+
 .destaque-pet {
-    
-    
+    background-color: #ff9f43;
+    color: #ffffff;
     transform: scale(1.03);
 }
 .destaque-pet h2 {
     color: white;
     border-color: white;
 }
-*/
 
-/* Missão 4: Estilo do card de adoção (.card-adocao) */
-/* Dica: Adicione uma linha de borda de 2px solid #ff9f43, um espaçamento interno de 15px, pontas arredondadas de 8px e cor de fundo branca (#fff) */
 
-/*
+Missão 4: Estilo do card de adoção (.card-adocao) */
+Dica: Adicione uma linha de borda de 2px solid #ff9f43, um espaçamento interno de 15px, pontas arredondadas de 8px e cor de fundo branca (#fff) */
+
+
 .card-adocao {
     margin-bottom: 10px;
     
@@ -127,4 +127,3 @@ input {
     
     
 }
-*/
