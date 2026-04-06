@@ -41,8 +41,8 @@ nomePet.addEventListener('input', () => {
 })
 
 cadastroBtn.addEventListener('click', () => {
-    const novoCadastro =  <article class="card-adocao"><h3>nome</h3></article>;
-    listaAdocao.innerHTML += novoCadastro
+    listaAdocao.innerHTML = <article class="card-adocao"><h3>nome</h3></article>;
+
 })
 
 // Missão 5
