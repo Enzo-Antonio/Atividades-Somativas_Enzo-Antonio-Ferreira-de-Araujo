@@ -1,7 +1,7 @@
 // Missão 1
 const horario = document.querySelector('#saudacao-voluntario')
 const timeIs = new Date()
-const hora = timeIs.getHours()
+const hora = new Date().getHours()
  if (hora < 12) {
     alert('Plantão matinal, Protetor!')
  }
